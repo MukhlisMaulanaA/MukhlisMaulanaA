@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/mukhlismaulanaa/mukhlismaulanaa/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake.svg" />
 
 ###
 
