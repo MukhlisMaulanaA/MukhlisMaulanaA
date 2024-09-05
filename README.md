@@ -45,6 +45,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="50" alt="vercel logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="50" alt="arduino logo"/>
           
 </div>
 
@@ -69,7 +81,7 @@
 <br clear="both">
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake.svg" />
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" /> -->
 
 ###
 
