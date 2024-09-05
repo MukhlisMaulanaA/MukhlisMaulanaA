@@ -79,10 +79,11 @@
 
 ###
 <br clear="both">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake.svg" />
-<!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" /> -->
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MukhlisMaulanaA/MukhlisMaulanaA/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MukhlisMaulanaA&label=Profile%20views&color=0e75b6&style=flat" alt="mukhlis" /> </p>
